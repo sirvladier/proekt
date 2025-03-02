@@ -1,1 +1,1 @@
-Изменение 1 в branchFromMaster2
+Изменение 2 в branchFromMaster2
